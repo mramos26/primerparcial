@@ -13,7 +13,7 @@ int main()
   
 int num1, num2;
   
-	cout<<"dame primer numero";
+cout<<"dame primer numero";
 cin>> num1;
 cout<< "dame segundo numero"; 
 cin>> num2;
@@ -26,7 +26,7 @@ cout<< "el numero "<< num2 << "es multiplo de " << num1 ;
 cout<< "el numero "<< num2 << "no es multiplo de " << num1 ;
    
  } 
-       
+       //hhhhh
 
 return 0;
 
